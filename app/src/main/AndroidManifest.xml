@@ -13,7 +13,7 @@
         android:theme="@style/Theme.UngDungGiaiTriTongHop"
         tools:targetApi="31" >
         <activity
-            android:name=".Calculator"
+            android:name=".Caculator.Calculator"
             android:exported="false" >
             <meta-data
                 android:name="android.app.lib_name"

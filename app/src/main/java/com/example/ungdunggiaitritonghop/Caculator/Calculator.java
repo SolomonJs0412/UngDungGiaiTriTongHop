@@ -1,10 +1,12 @@
-package com.example.ungdunggiaitritonghop;
+package com.example.ungdunggiaitritonghop.Caculator;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+
+import com.example.ungdunggiaitritonghop.R;
 
 import java.text.DecimalFormat;
 
